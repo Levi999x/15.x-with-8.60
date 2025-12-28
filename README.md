@@ -15,5 +15,7 @@ otb client="8.60" version="3" id="20"
 to
 otb client="8.60" version="3" id="64"
 
+Tibia.otfi file must be placed in OTC 860 and RME 860 folder
+
 To avoid bugs and problems
 Create a blank map and then import your old map on it :D
