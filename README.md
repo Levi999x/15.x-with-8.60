@@ -10,6 +10,7 @@ Note:
 We’ve also imported all outfits from version 9.83 (up to ID 537). This adds 3-frame animations and full mount support while still preserving the 8.60 look and feel. If you prefer the original 8-frame outfit animations, you can switch back to them yourself without any issues 🙂
 
 Required OTCv8 features
+
     To use this properly, you must enable the following features:
     g_game.enableFeature(GameEnhancedAnimations)
     g_game.enableFeature(GameIdleAnimations)
