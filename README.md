@@ -1,6 +1,6 @@
 # 15.x-with-8.60
 
-NOTE: This branch is for CIP Client.
+NOTE: This branch is only supported for OTCv8
 
 Hi,
 
